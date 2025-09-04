@@ -1,2 +1,1 @@
-
-Repository for project management course assignments, exercises, and Agile practice.
+this repository contains the lab for agile planning 
